@@ -1,6 +1,6 @@
 # Code of FedProST
 ## Personalized Federated Learning for Spatio-Temporal Forecasting: A Prompt-based Perspective
-<!-- ![framework logo](https://github.com/zhangyudongUSTC/C2ReST/blob/main/model.png) -->
+![framework logo](https://github.com/zhangyudongUSTC/FedProST/blob/main/model.png)
 
 
 # Requirements
